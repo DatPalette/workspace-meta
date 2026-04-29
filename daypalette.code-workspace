@@ -5,6 +5,9 @@
     },
     {
       "path": "../daypalette-docs"
+    },
+    {
+      "path": "../daypalette-color-admin"
     }
   ],
   "settings": {
